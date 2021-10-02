@@ -81,3 +81,28 @@ main p {
     background-color: #c0caf7;
     padding: 1% 2%;
 }
+
+#contact {
+    text-align: center;
+}
+ 
+#contact a {
+    color: #4645a8;
+    text-decoration: none;
+    font-weight: bold;
+}
+ 
+.map {
+    border: 5px solid #373684;
+}
+/* Style rules for footer content */
+footer {
+    text-align: center;
+    font-size: 0.65em;
+    clear: left;  
+}
+ 
+footer a {
+    color: #4645a8;
+    text-decoration: none;
+}
