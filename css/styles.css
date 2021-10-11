@@ -43,13 +43,13 @@ nav {
  
 nav ul {
     list-style-type: none;
-    margin: 0;
     text-align: center;
 }
  
 nav li {
-    display: inline-block;
+    display: block;
     font-size: 2em;
+    border-top: 1px solid #e5e9fc;
 }
  
 nav li a {
