@@ -66,7 +66,7 @@ Where "you@example.com" and "username" are your email and username.
 
 "git push origin branch-name"
 
-The 'branch-name' will be "master" unless you create a new branch. 
+The 'branch-name' will be "main" unless you create a new branch. 
 
 6. You will be prompted to enter your username and password. 
 
