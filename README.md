@@ -45,7 +45,7 @@ To Commit and Push Your Files to a Repository:
 
 1. First, in the terminal, change your working directory to the directory you want to commit:
 
-"cd rescue"
+"cd music"
 
 2. Next, set the git config file using your email and user name for the remote repository: 
 
